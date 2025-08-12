@@ -16,8 +16,7 @@
 
 ## Minha Experiencia
 
--Joven aprendiz vale (2019-2021)
--Tabalhei de Eletromecanixa
--Em mecanica aprendi a fazer desenhos tecnicos e utilizar ferramentas para fazer o desenho em 3D, ultilizar equipamentos de precisao e utilizar torno e furadeira de bancada
--Em eletrica ultilizar softwer de simulaçao, comandos eletricos
-
+-Jovem aprendiz vale (2019-2021)
+-Trabalhei de Eletromecânica
+-Em mecânica aprendi a fazer desenhos técnicos e utilizar ferramentas para fazer o desenho em 3D, utilizar equipamentos de precisão e utilizar torno e furadeira de bancada
+-Em elétrica utilizar software de simulação, comandos elétricos

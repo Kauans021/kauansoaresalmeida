@@ -2,10 +2,9 @@
 
 ## Sou Kauan
 
-- Brasileiro
-
-- Estudante do curso de "Programação com Java e C#"
-- Natural de Joao Monlevade
+* Brasileiro
+* Estudante do curso de "Programação com Java e C#"
+* Natural de Joao Monlevade
 
 
 
@@ -20,3 +19,13 @@
 -Trabalhei de Eletromecânica
 -Em mecânica aprendi a fazer desenhos técnicos e utilizar ferramentas para fazer o desenho em 3D, utilizar equipamentos de precisão e utilizar torno e furadeira de bancada
 -Em elétrica utilizar software de simulação, comandos elétricos
+
+
+
+## Meus Projetos
+
+
+
+* Aqui esta alguns dos meu projetos e exercícios desenvolvidos ao longo do curso:
+* Projeto 1 - Criar um jogo
+* Projeto 2 - Criar um aplicativo de controle de estoque
